@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+msgid "Activate price tracking"
+msgstr ""
+
+msgid "Display price history chart"
+msgstr ""
+
+msgid "Include sale prices when calculating lowest price"
+msgstr ""
+
+msgid "Lowest price in last {days} days: {price}"
+msgstr ""
+
+msgid "Our Plugins"
+msgstr ""
+
+msgid "Price History"
+msgstr ""
+
+msgid "Price History Settings"
+msgstr ""
+
+msgid "Reset Price History"
+msgstr ""
+
+msgid "Reset recorded price history for this product."
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "Show lowest price text on product page"
+msgstr ""
+
+msgid "Show message only if product is on sale"
+msgstr ""
+
+msgid "View Price History"
+msgstr ""
+
+msgid "WizeWP"
+msgstr ""
+
+msgid "Woocommerce Price History"
+msgstr ""
+

@@ -1,0 +1,57 @@
+.wizewpph-lowest-price {
+    font-size: 16px;
+    font-weight: 600;
+    color: #0073aa;
+    margin: 15px 0;
+    padding: 10px 15px;
+    background: #f1f9fc;
+    border-left: 4px solid #0073aa;
+    border-radius: 4px;
+}
+
+.wizewpph-chart-container {
+    max-width: 100%;
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.wizewpph-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.wizewpph-modal-content {
+    background-color: #fff;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.wizewpph-modal-close {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+@media (max-width: 600px) {
+    .wizewpph-lowest-price {
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,124 @@
+/* admin.css – Stiluri pentru pagina de admin WizeWP */
+.wizemamo-admin-wrapper {
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 800px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.wizemamo-admin-wrapper h1 {
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+.wizemamo-admin-wrapper p.description {
+  font-size: 15px;
+  color: #666;
+}
+
+.wizemamo-field-group {
+  margin-bottom: 30px;
+}
+
+.wizemamo-field-group label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.wizemamo-field-group input[type="text"],
+.wizemamo-field-group input[type="url"],
+.wizemamo-field-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.wizemamo-field-group input[type="checkbox"] {
+  margin-right: 8px;
+}
+.stars {
+  color: #ffb900;
+}
+.wizemamo-section-premium {
+  border: 2px dashed red;
+  margin-top: 40px;
+  padding: 30px 0;
+  background: #f9f9f9;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.wizemamo-section-premium ul {
+  padding-left: 20px;
+  list-style: none;
+  margin-top: 10px;
+}
+.wizemamo-section-premium h2 {
+    font-size: 24px;
+}
+.wizemamo-section-premium p, .wizemamo-section-premium li {
+    font-size: 16px;
+}
+
+.wizemamo-section-premium .button {
+  margin-top: 15px;
+  font-size: 20px;
+  border-radius: .375em;
+}
+.wizemamo-contact-section {
+  background: #fff;
+  padding: 20px;
+  padding-left: 0;
+}
+
+.wizemamo-contact-section h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.wizemamo-contact-section p {
+  margin-bottom: 10px;
+  color: #444;
+}
+
+.wizemamo-contact-section ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.wizemamo-contact-section a {
+  color: #0073aa;
+  text-decoration: none;
+}
+
+.wizemamo-contact-section a:hover {
+  text-decoration: underline;
+}
+.wizemamo-plugins-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+    margin-top: 20px;
+}
+
+.wizemamo-plugin-card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+}
+
+.wizemamo-plugin-card h2 {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.wizemamo-plugin-card p {
+    color: #555;
+}
